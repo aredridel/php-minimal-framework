@@ -1,1 +1,3 @@
+/* We use the browser's defaults styles, but for things with the error 
+   class, highlight in red. */
 .error { background-color: red; color: white; padding: 1em; }
